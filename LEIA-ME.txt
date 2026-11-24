@@ -56,3 +56,18 @@ NOVIDADES DA V19
 
 
 V22: imagem especial embutida no HTML como data URI para evitar falhas de caminho/cache em celulares; cache do service worker atualizado.
+
+
+V24
+- Removido completamente o evento/fase especial que substituía a imagem da pimenta.
+- Removida a trilha de áudio exclusiva do evento.
+- O Rebirth não sorteia mais a ativação do evento; o botão permanece com a pimenta normal.
+- Removidas as referências aos arquivos do evento do cache offline.
+- O progresso salvo continua sendo carregado; o indicador antigo do evento é ignorado.
+
+
+ATUALIZAÇÃO DE AJUSTES
+- O valor definido em “Pimentas por clique” no painel de desenvolvedor agora é um bônus adicional: ele acumula com os itens da loja, upgrades e Rebirths.
+- Aviso de beta adicionado acima do jogo e nas Configurações. O aviso acompanha o fluxo normal da página e não fica fixo na tela durante a rolagem.
+- Créditos atualizados: Matheus Leão de Macedo e Goat GPT como desenvolvedores do jogo.
+\n\nV27 — FARM OFFLINE\n- Nova opção “Ativar Farm Offline” nas Configurações.\n- Com a opção ativada, a autocolheita continua acumulando pimentas por até 24 horas enquanto o jogo está fechado.\n- Ao voltar, o jogador recebe um aviso com o tempo ausente e a quantidade acumulada; a recompensa é adicionada ao saldo e ao total colhido.\n- O Farm Offline usa a taxa de autocolheita atual. É necessário ter autocolheita maior que zero.\n

@@ -1,5 +1,5 @@
-const CACHE_NAME = "pimenta-clicker-v23";
-const FILES = ["./", "./index.html", "./manifest.webmanifest", "./pimenta-especial.jpg", "./audio-especial.mp3"];
+const CACHE_NAME = "pimenta-clicker-v27";
+const FILES = ["./", "./index.html", "./manifest.webmanifest"];
 self.addEventListener("install", event => {
   event.waitUntil(caches.open(CACHE_NAME).then(cache => cache.addAll(FILES)));
   self.skipWaiting();
