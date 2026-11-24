@@ -1,0 +1,58 @@
+PIMENTA CLICKER — V19
+
+COMO JOGAR
+1. Abra o jogo e toque na pimenta para ganhar pimentas.
+2. O contador mostra quantos cliques você já deu.
+3. A dica abaixo da pimenta informa quanto falta para o próximo passo de progresso ou para comprar um item.
+4. Abra o menu do carrinho para acessar Loja, Upgrades e Objetivos. A tela da Loja também contém o Rebirth.
+5. Complete objetivos, compre melhorias e faça Rebirths para aumentar seus ganhos.
+
+NOVIDADES DA V14
+- Tela principal simplificada: pimenta centralizada, saldo e contador de cliques.
+- Tutorial básico de início, que pode ser fechado e permanece dispensado após salvar a preferência no dispositivo.
+- Lembrete dinâmico de progresso e de quanto falta para a próxima compra.
+- Tanque removido da jogabilidade e da interface; nenhuma perda aleatória de pimentas.
+- Melhorias que antes eram relacionadas ao tanque foram convertidas em bônus de colheita, mantendo os níveis salvos.
+- Rebirth movido para o topo da Loja para deixar a tela principal limpa.
+- Botões de salvar e reiniciar movidos para Configurações.
+- Menção honrosa ao Tanque de Pimentas nos créditos, em homenagem às versões anteriores.
+
+OUTROS RECURSOS MANTIDOS
+- 50 itens na loja, distribuídos em 5 páginas.
+- Navegação da loja por gesto horizontal e indicadores de página.
+- Upgrades, objetivos, Rebirth, músicas e efeitos personalizáveis.
+- Salvamento automático no dispositivo.
+
+DICA
+Se a loja ainda não permitir compras, faça o primeiro Rebirth. O lembrete na tela principal mostra quanto falta.
+
+
+NOVIDADES DA V15
+- Tutorial inicial em janela central, com passos explicando como jogar.
+- Configuração para deixar a Loja em uma aba separada ou junto da tela da pimenta.
+- Configuração para mostrar a contagem de Rebirth no topo, na Loja, nos dois locais ou ocultá-la.
+- Tanque de Pimentas opcional, ativado nas Configurações, com três upgrades próprios. Desativar o tanque esconde seus bônus, mas preserva os níveis comprados.
+- Controle vertical arrastável ao lado da Loja para navegar entre as cinco páginas, além do gesto horizontal e das bolinhas de página.
+- As opções de layout e os upgrades do tanque são salvos no dispositivo.
+
+
+NOVIDADES DA V16
+- A barra vertical da Loja agora rola os itens para cima e para baixo, sem mudar os níveis dos itens.
+- Novos temas de cores: clássico vermelho, oceano, floresta, roxo cósmico, dourado e rosa.
+- Layout configurável para mostrar somente Loja, somente Objetivos, somente Upgrades, todos juntos na tela principal ou manter as abas separadas.
+- A barra completa de Rebirth pode ser mostrada ou ocultada na tela principal.
+- As preferências de tema e layout são salvas automaticamente no dispositivo.
+
+
+NOVIDADES DA V17
+- O tutorial aparece automaticamente sempre que o jogador abre ou recarrega o jogo, mesmo que já tenha concluído ou pulado o tutorial em sessões anteriores.
+
+
+NOVIDADES DA V19
+- Removida a punição/detecção de autoclicker; cliques rápidos não reiniciam mais o progresso.
+- Opção secreta de modo desenvolvedor: toque 5 vezes no título “Configurações” para revelar o controle.
+- A cada Rebirth, há 20% de chance de o botão de clique ser substituído pela imagem especial. A imagem permanece até o próximo Rebirth, quando a chance é sorteada novamente.
+- A imagem especial é incluída no pacote e funciona offline.
+
+
+V22: imagem especial embutida no HTML como data URI para evitar falhas de caminho/cache em celulares; cache do service worker atualizado.

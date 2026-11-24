@@ -1,0 +1,9 @@
+{
+  "name": "Pimenta Clicker",
+  "short_name": "Pimenta Clicker",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#171311",
+  "theme_color": "#b83224",
+  "description": "Um clicker de pimentas que funciona offline depois da instalação."
+}
